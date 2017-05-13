@@ -1,0 +1,111 @@
+.navbar-default {
+  		background-color: #E6E6FA
+  }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover    {
+  color: white;
+  background-color: black
+
+}
+.navbar-nav {
+  float: right;
+}
+
+ .jumbotron  h1 {
+   color: white;
+   text-align: center;
+   font-size: 28px;
+ }
+ .navbar {
+   margin-bottom: -3px;
+   color: #E6E6FA;
+ }
+ .jumbotron {
+   padding-top: 138px;
+   padding-bottom:130px;
+   background-color: #E6E6FA;
+ }
+ .one {
+   padding: 63px;
+   background-color: white;
+   text-align: center;
+ }
+ #light {
+   width:180px;
+   height: 149px;
+ }
+  #product {
+    width: 180xp;
+    height: 148px;
+  }
+  .Recent {
+    background-color: #9dd2a4;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .font-styling{
+    text-decoration: gray;
+    color: white;
+  }
+   {
+    background-color: #9dd2a4;
+    border: 3px solid #ddd;
+  }
+  .two h3 {
+    padding-top: 10px;
+
+  }
+  .two {
+    padding-top: 30px;
+  }
+  .meet {
+    background-color: #e0b7c7;
+
+  }
+  .meet1 {
+    margin: 10px 100px 66px 0px;
+    text-align: center;
+    padding: 10px 20px;
+  }
+  .post {
+    background-color: #b7d7e8;
+  }
+  .post1 {
+    margin-left: 180px;
+    padding-bottom: 37px;
+
+
+  }
+
+  .white {
+    background-color: white;
+    padding: 17px;
+  }
+  .black {
+    background-color: white;
+    margin-left: 20px;
+    padding-bottom: 18px;
+    padding-top: -12px;
+  }
+
+  .stockImg {
+    height: ;
+    width: ;
+  }
+  .container-fluid {
+    padding-right: 0px;
+  }
+  .US {
+    background-color: #484f4f;
+  }
+.secound {
+  width: 32.33333333%;
+  text-align: center;
+}
+.messageHeight {
+  height: 100px;
+  padding-top: 6px 12px;
+}
+.oneof {
+  text-align: center;
+  margin-left: 27%;
+}
